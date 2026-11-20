@@ -1,0 +1,2 @@
+# tuyad
+daemon for tuya
