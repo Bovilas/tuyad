@@ -13,7 +13,7 @@
 #include "utils.h"
 
 const char *argp_program_version = "Tuya Daemon 1.0";
-const char *argp_program_bug_address = "povilas.daugela@teltonika.lt";
+const char *argp_program_bug_address = "povilas.daugela@teltonika.lt"; // actually on outlook.com now
 
 
 static volatile sig_atomic_t keep_running = 1;
